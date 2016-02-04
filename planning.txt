@@ -6,37 +6,37 @@ Next dates:
 - 3. May*
 - 21 June*
 
-*unconfirmed by IXDS
+*unconfirmed by IXDS (Alsino will confirm)
 
 
 Topics:
 
 1 March: Remote sensing
 - Harald + 2 external guests
-- Hans Hack (Berliner Alpen)
+- Hans Hack (Berliner Alpen) (Alsino asks)
 
 
 5 April: Topic Tbc
-- Riccardo (Digital geography) tutorial
-- ESRI with good topic
-- WFS overview guy
-- Geoserver and air pollution data (Patrick)
+- Riccardo (Digital geography) tutorial (Alsino asks)
+- ESRI with good topic (Harald asks)
+- WFS overview guy (Seb asks)
+- Geoserver and air pollution data (Patrick prepares)
 
 
 3 May: Topic Tbd
-- Carolina workshop hand drawn maps
+- Carolina workshop hand drawn maps (Alsino asks)
 - TSB-project Seb (5min)
-- Uli Strötz (Ally App/ Track your city)
-- BILD-map guy
+- Uli Strötz (Ally App/ Track your city) (Alsino asks)
+- BILD-map guy (Seb asks)
 
 21 June: Topic Tbd
 - Intro PostGIS/Geoserver (Seb/Harald)
 
 
 Housekeeping/ further plans:
-- New sponsor for drinks (and better sharing of expenses in advance)
-- Better Documentation (Photos and Srticles on Tumblr)
-- Organize a two-day weekend "Mappathon" after summer w/ TSB, Bahn, OpenData Berlin, etc. on specific topic with output projects
+- New sponsor for drinks (and better sharing of expenses in advance) (all ask)
+- Better Documentation (Photos and Srticles on Tumblr) (all)
+- Organize a two-day weekend "Mappathon" after summer w/ TSB, Bahn, OpenData Berlin, etc. on specific topic with output projects (Seb/Alsino)
 
 
 
