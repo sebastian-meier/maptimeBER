@@ -1,0 +1,46 @@
+Maptime planning status:
+
+Next dates:
+- 1 March
+- 5 April*
+- 3. May*
+- 21 June*
+
+*unconfirmed by IXDS
+
+
+Topics:
+
+1 March: Remote sensing
+- Harald + 2 external guests
+- Hans Hack (Berliner Alpen)
+
+
+5 April: Topic Tbc
+- Riccardo (Digital geography) tutorial
+- ESRI with good topic
+- WFS overview guy
+- Geoserver and air pollution data (Patrick)
+
+
+3 May: Topic Tbd
+- Carolina workshop hand drawn maps
+- TSB-project Seb (5min)
+- Uli Strötz (Ally App/ Track your city)
+- BILD-map guy
+
+21 June: Topic Tbd
+- Intro PostGIS/Geoserver (Seb/Harald)
+
+
+Housekeeping/ further plans:
+- New sponsor for drinks (and better sharing of expenses in advance)
+- Better Documentation (Photos and Srticles on Tumblr)
+- Organize a two-day weekend "Mappathon" after summer w/ TSB, Bahn, OpenData Berlin, etc. on specific topic with output projects
+
+
+
+
+
+
+
