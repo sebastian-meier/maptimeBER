@@ -20,8 +20,9 @@ Topics:
 - Uli Strötz (Ally App/ Track your city) (confirmed, Alsino)
 - Breitband project TSB (Seb confirmed)
 - ESRI with good topic (confirmed, Harald)
+- Thomas Moenkemeier - WFS overview (confirmed, Seb)
 - Riccardo (Digital geography) tutorial (Alsino asks)
-- WFS overview guy (Seb asks)
+
 
 
 3 May: Topic Tbd
