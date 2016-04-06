@@ -26,7 +26,7 @@ Topics:
 
 
 3 May: Topic Tbd
-- Carolina workshop hand drawn maps (Alsino asks)
+- Catalina workshop hand drawn maps (Alsino asks)
 - TSB-project Seb (5min)
 - Geoserver and air pollution data (Patrick prepares)
 - BILD-map guy (Seb asks)
