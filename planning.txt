@@ -24,15 +24,24 @@ Topics:
 - Riccardo (Digital geography) tutorial (Alsino asks)
 
 
-
 3 May: Topic Tbd
 - Catalina workshop hand drawn maps (Alsino asks)
 - TSB-project Seb (5min)
-- Geoserver and air pollution data (Patrick prepares)
-- BILD-map guy (Seb asks)
+- Geoserver and air pollution data (Patrick) ?
+- Sebastian (BILD)-map guy (Seb asks)
+
 
 21 June: Topic Tbd
 - Intro PostGIS/Geoserver (Seb/Harald)
+- Till (Seb asks)?
+- Golden Section Maps Project (Jonas)
+- Fabian Ehmel Emotion Projekt ?
+
+
+12 July: Topic Tdd.
+- Historische Städte-Atlanten (Hr Wahlberg)
+
+
 
 
 Housekeeping/ further plans:
