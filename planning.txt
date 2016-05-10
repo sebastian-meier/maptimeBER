@@ -32,10 +32,9 @@ Topics:
 
 
 21 June: Topic Tbd
-- Intro PostGIS/Geoserver (Seb/Harald)
-- Till (Seb asks)?
+- Intro PostGIS (Seb)
 - Golden Section Maps Project (Jonas)
-- Fabian Ehmel Emotion Projekt ?
+- Fabian Ehmel Emotion Projekt
 
 
 ———————————————————
